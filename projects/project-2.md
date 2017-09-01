@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/ThePie.jpg
-title: Vacay
-permalink: projects/vacay
+title: Rasbery Pi Remote
+permalink:
 date: 2017
 labels:
   - Bluetooth
