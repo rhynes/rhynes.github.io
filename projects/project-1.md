@@ -9,8 +9,7 @@ labels:
   - Java Script
   - HTML
   - C++
-summary: I have been working on a new social media aplication that allows for users to create personal virtual cliques with their friends,
-coworkers, employees, following, etc.
+summary: I have been working on a new social media aplication that allows for users to create personal virtual cliques with their friends,coworkers, employees, following, etc.
 ---
 <img class="ui image" src="{{ site.baseurl }}/images/clique_logo_retro.png">
 
