@@ -1,24 +1,17 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/ThePie.jpg
 title: Vacay
 permalink: projects/vacay
-date: 2015
+date: 2017
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Bluetooth
+  - Utility
+  - Rasberry Pi
+summary: Built a touch Screen rasberry Pi that is used in my room as bluetooth remote.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+A Rasberry Pi is a very cool miniature computer that can be used for a variety of things. One issue that I was having in my room was that I would be laying in bed about to go to sleep and I would forget to turn off my fan and fan light. So I would always have to get out of bed and flip the switch to turn it off. SO one day I decided to install a blue tooth reciever to replace the fan switch on the wall and add bluetooth lights inside the fan. I then transformed my rasberry pi by installing a touch screen to it and installed a bluetooth remote to it to control my fans speed, power, light power, and light brightness.
