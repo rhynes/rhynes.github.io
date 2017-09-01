@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/frogger_sketch.png
+image: images/frogger_sketch1.png
 title: Frogger
 permalink: projects/Frogger
 date: 2016
