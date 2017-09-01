@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ThePie.jpg
+image: images/ThePie1.jpg
 title: Rasbery Pi Remote
 permalink:
 date: 2017
