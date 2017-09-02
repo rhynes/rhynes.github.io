@@ -1,13 +1,12 @@
 ---
 layout: essay
 type: essay
-title: E09: Reflect on Javascript 1
-date: 2017-09-1
+title: Pursuing The Dream
+date: 2017-08-31
 labels:
   - Software Engineering
   - Learning
 ---
-
 Coming into ICS 314 I was a complete newbie at JavaScript.  After the first couple classes and our first assignment, which was an online 10
 hour JavaScript code camp, my confidence and understanding of JavaScript boosted because of the simplicity compared to other programming
 languages such as Java, C and C++.  So far I believe JavaScript is a very basic programming language and is pretty easy to pick up with
