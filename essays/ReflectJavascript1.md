@@ -6,6 +6,7 @@ date: 2017-09-1
 labels:
   - Software Engineering
   - Learning
+  - Essay
 ---
 Coming into ICS 314 I was a complete newbie at JavaScript.  After the first couple classes and our first assignment, which was an online 10
 hour JavaScript code camp, my confidence and understanding of JavaScript boosted because of the simplicity compared to other programming
