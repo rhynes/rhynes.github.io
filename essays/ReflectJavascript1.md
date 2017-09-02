@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: Pursuing The Dream
-date: 2017-08-31
+title: Reflect on Javascript 1
+date: 2017-09-1
 labels:
   - Software Engineering
   - Learning
