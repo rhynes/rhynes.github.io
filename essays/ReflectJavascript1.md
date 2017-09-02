@@ -2,9 +2,10 @@
 layout: essay
 type: essay
 title: Reflect on Javascript 1
-date: 2017-09-1
+date: 2017-08-31
 labels:
   - Software Engineering
+  - Learning
   - Essay
 ---
 Coming into ICS 314 I was a complete newbie at JavaScript.  After the first couple classes and our first assignment, which was an online 10
