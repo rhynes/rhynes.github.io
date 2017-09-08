@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Reflect on Smart Questions
-date: 2017-09-7
+date: 2017-09-07
 labels:
   - Software Engineering
   - Learning
