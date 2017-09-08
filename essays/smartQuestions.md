@@ -20,14 +20,18 @@ questions that could be easily found by searching the web.
 
 A Smart question like the example above is a question that demonstrates precise and informative description of the problem occurring. For
 example in this question the developer asked a question regarding clarification on pointers in his code. The developer has shown in his
-question that he has done research, trial and error tests, and has provided all the material needed in order to make his question clear. In
+question that he has done research, trial and error tests, and has provided all the material needed in order to make his question clear.
+In
 response he got two answers back that target and answer his specific question. 
 
 [Example Of A Non Smart Question]( https://stackoverflow.com/questions/46110142/how-to-download-5th-version-of-turn-js)
-A non-smart question like the example above is a great example of what not to post on a forum such as StackOverFlow. The question this user
-is asking is how to download a 5th version of turn.js. To start the developer that asked this question provided no information about the
-research she has done in order to complete her task. She also was not informative about what she is trying to do by downloading this
-program, and she hasn’t even provided and steps she took in trying to pin down the problem at hand. Thus basically not showing any effort
+
+A non-smart question like the example above is a great example of what not to post on a forum such as StackOverFlow. The question this
+user is asking is how to download a 5th version of turn.js. To start the developer that asked this question provided no information
+about theresearch she has done in order to complete her task. She also was not informative about what she is trying to do by downloading
+this
+program, and she hasn’t even provided and steps she took in trying to pin down the problem at hand. Thus basically not showing any
+effort
 in order to try and solve the problem its self. What also makes this funny is that out of curiosity I decided to copy and paste her
 question into google and got a lot of information regarding her question. In the end this a non-smart question because of the lack of
 precise and informative information that included when asking a question.
