@@ -21,7 +21,7 @@ all software engineers should maintain a strong independent judgement, while als
 This means that if a software engineer is creating software that could potentially cause harm or be considered not morally correct, they
 need to assess the situation and make an ethical decision. This will ensure that they do not commit an unethical act of engineering.
 
-	With my definition and opinion of ethics in mind, after reading the “The Code I’m Still Ashamed Of”, I believe that the
+With my definition and opinion of ethics in mind, after reading the “The Code I’m Still Ashamed Of”, I believe that the
 programmer was in the right and should not be ashamed due to the fact that his actions were still considered to be ethical. The problem
 that occurred for the programmer was that he was asked to do a job of creating a quiz online that targeted young girls, and would give
 them information about drugs they could take. The programmer was provided with little information on the drug the company was selling,
