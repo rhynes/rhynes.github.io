@@ -1,4 +1,14 @@
-
+---
+layout: essay
+type: essay
+title: Ethics Engineering
+date: 2017-11-30
+labels:
+  - Software Engineering
+  - Learning
+  - Ethics
+  - Essay
+---
 When it comes to ethics there are a variety of things to consider from different standpoints to determine if something or someone is
 considered to be morally correct. When working or doing anything in today’s society, there are a natural set of rules and standards that
 have to abided by when participating in life. Now comes the question of how the standards of ethics can be applied in the world of
