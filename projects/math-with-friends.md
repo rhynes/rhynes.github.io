@@ -4,7 +4,7 @@ type: project
 image: images/mwf.jpg
 title: Math With Friends
 permalink: 
-date: 12/14/2017
+date: 2017-12-14
 labels:
   - Java Script
   - HTML
